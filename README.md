@@ -1,1 +1,2 @@
-# Restaurant-List
+我的餐廳清單
+練習使用Node.js & Express架設附有瀏覽清單、查看詳細資訊與查詢功能的美食餐廳清單網站。
